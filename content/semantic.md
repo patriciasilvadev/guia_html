@@ -3,7 +3,7 @@
 Atualmente o papel da HTML não é apenas estruturar documentos para a web, mas também descrever o significado do conteúdo presente nesses documentos por meio de tags semânticas.
 
 
-**Exemplo:**
+**Exemplo em código com tags semânticas**
 ```html
     <header>
        <h1>Cursos de programação</h1>
@@ -44,7 +44,7 @@ Atualmente o papel da HTML não é apenas estruturar documentos para a web, mas 
          <p>MinhaEmpresa.com.br. Todos os direitos reservados.</p>
      </footer>
  ```
-As principais tags semânticas:
+## As principais tags semânticas:
 
 * `<header>` tag utilizada para representar o cabeçalho
 * `<nav>` tag utilizada quando precisamos representar um agrupamento de links de navegação

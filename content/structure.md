@@ -1,6 +1,8 @@
 # Estrutura Básica
 
-Para começar a desenvolver uma página Web, criamos um arquivo renomeado como **index.html** utilizando um editor de código como Notepad++, Sublime Text ou Visual Code ****e nele adicionamos a estrutura básica de um página em HTML:
+Para começar a desenvolver uma página Web, criamos um arquivo renomeado como **index.html** utilizando um editor de código como Notepad++, Sublime Text ou Visual Code e nele adicionamos a estrutura básica de um página em HTML, com *indentação* que são os avanços e recuos, usando uma tecla tab do teclado ou espaço, para organizar as linhas de código da nossa página.
+
+**Exemplo em código da estrutura básica do HTML**
 
 ```html
 <!DOCTYPE html>
@@ -24,7 +26,7 @@ Para começar a desenvolver uma página Web, criamos um arquivo renomeado como *
 </html>
 ```
 
-**As Principais Tags:**
+## Exemplo Explicado com as principais Tags
 
 * A `<!DOCTYPE html>`declaração define que este documento é um documento HTML5
 * A tag `<html>` é o elemento raiz de uma página HTML
@@ -34,7 +36,7 @@ Para começar a desenvolver uma página Web, criamos um arquivo renomeado como *
 * A tag `<h1>` define cabeçalhos, que vão do `<h1>` ao `<h6>`. Definindo assim o título mais importante ao menos importante.
 * A tag `<p>` define um parágrafo. Um parágrafo sempre começa em uma nova linha e os navegadores adicionam automaticamente algum espaço em branco (uma margem) antes e depois de um parágrafo.
 
-**As Principais Metas Tags:**
+## Exemplo Explicado com as principais Meta Tags
 
 As tags `<meta>` servem para descrever o conteúdo de uma página para os mecanismos de buscas.
 
@@ -44,15 +46,11 @@ As tags `<meta>` servem para descrever o conteúdo de uma página para os mecani
 * `author` define o autor de uma página, geralmente o desenvolver ou a empresa desenvolvedora.
 * `viewport` Configura a janela de visualização para que seu site fique bem em todos os dispositivos.
 
-**Tags Extras:**
+## Outras Tags que podemos utilizar
 
 * A tag `<hr>` define uma quebra temática em uma página HTML (por exemplo, uma mudança de tópico).
-* A tag `<br>` insere uma única quebra de linha.  É útil para escrever endereços ou poemas.
-
-**Indentação** 
-
-São os avanços e recuos, usando uma tecla tab do teclado ou espaço, para organizar as linhas de código da nossa página.
-
+* A tag `<br>` insere uma única quebra de linha. É útil para escrever endereços ou poemas.
+* A tag `<div>` utilizada quando queremos dividir conteúdos em blocos de código, como por exemplo, cards.  
 
 [Voltar a Home](../README.md)
 
